@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insightbuilders>
+<app>
+  <major>1</major>
+  <minor>0</minor>
+  <build>3</build>
+  <revision>3</revision>
+<url>https://github.com/AkhilRbzMi/publicupdate/raw/master/1.0.3.3.zip</url>
+</app>
+<launcher>
+ <major>1</major>
+  <minor>2</minor>
+  <build>0</build>
+  <revision>0</revision>
+	<url>https://github.com/AkhilRbzMi/publicupdate/blob/master/Launcher_1.0.2.0.zip?raw=true</url>
+</launcher>
+</insightbuilders>
